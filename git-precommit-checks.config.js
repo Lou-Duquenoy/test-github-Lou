@@ -31,7 +31,7 @@ module.exports = {
         },
         {
            
-            message: "T'as un console.log()...Beurk!",
+            message: "Blabla",
             regex: /^[<>|=]{4,}/m,
         }
     ]
